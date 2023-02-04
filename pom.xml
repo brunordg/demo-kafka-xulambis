@@ -12,7 +12,7 @@
     <artifactId>demo-kafka-xulambis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demo-kafka-xulambis</name>
-    <description>demo-kafka-xulambis</description>
+    <description>Project of demo kafka</description>
     <properties>
         <java.version>17</java.version>
     </properties>
